@@ -111,7 +111,7 @@ public class Example3 {
 		 * write a java program to find the grade of a student
 		 * getGrade(int marks)
 		 * marks 100 and 90 grade A   if(marks <= 100 && marks >= 90)
-		 * marks 90 and 80 grade B   els eif (marks < 90)
+		 * marks 90 and 80 grade B   els  if (marks < 90)
 		 * marks 80 and 60 grade c
 		 * marks 60 and 45 grade d
 		 * marks 45 and 0 grade F
